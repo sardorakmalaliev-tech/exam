@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(39, 1, 41);
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.yellow {
+    color: yellow;
+}
+.center {
+text-align: center
+}
+.green {
+    color: green;
+}
+.green {
+    color: green;
+}
+.my_table {
+    border-collapse: collapse;
+    width: 1300px;
+}
+th, td {
+    border: 1px solid yellow;
+}
+.center {
+    text-align: center;
+}
+.input {
+    width: 2000px;
+}
+.button {
+    
+}
